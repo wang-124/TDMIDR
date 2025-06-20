@@ -1,0 +1,13 @@
+README.md
+setup.py
+TDMIDR/__init__.py
+TDMIDR/model.py
+TDMIDR/trainer.py
+tdmidr/__init__.py
+tdmidr/model.py
+tdmidr/trainer.py
+tdmidr.egg-info/PKG-INFO
+tdmidr.egg-info/SOURCES.txt
+tdmidr.egg-info/dependency_links.txt
+tdmidr.egg-info/requires.txt
+tdmidr.egg-info/top_level.txt

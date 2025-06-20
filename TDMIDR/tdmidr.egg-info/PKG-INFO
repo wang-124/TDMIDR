@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: tdmidr
+Version: 0.1
+Summary: TDMIDR model
+Author: LW
+Author-email: 。。。。
+Requires-Python: >=3.8
+Requires-Dist: torch
+Requires-Dist: tensorly
+Requires-Dist: numpy
+Requires-Dist: sparsemax
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: scikit-learn

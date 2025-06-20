@@ -1,0 +1,7 @@
+torch
+tensorly
+numpy
+sparsemax
+matplotlib
+scipy
+scikit-learn
